@@ -1,7 +1,7 @@
 
 # 🛠️ dotfiles
 
-Personal setup for macOS: Zsh, Neovim, Tmux, Alacritty.
+Personal setup for macOS: Zsh, LazyVim, Tmux, Alacritty.
 
 ## 🔧 Installation
 
@@ -21,7 +21,7 @@ Install these manually or using script (work in progress):
 
 - Homebrew
 - Oh My Zsh
-- Neovim
+- LazyVim
 - Tmux
 - Alacritty
 - Lazygit
